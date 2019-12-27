@@ -2,11 +2,15 @@ import time
 import pandas as pd
 import numpy as np
 
+# There are 3 cities
+
 CITY_DATA = {
     'chicago':'chicago.csv',
     'new york city':'new_york_city.csv',
     'washington':'washington.csv'
 }
+
+## Define a city
 
 def city_input():
     print('Hello! Let\'s explore some US bikeshare data! \n')

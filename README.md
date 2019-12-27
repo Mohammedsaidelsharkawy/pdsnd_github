@@ -9,3 +9,7 @@ This is the third project for Udacity's Data Science Nanodegree Program where bi
 bikeshare.py
 
 
+Python was used in this project
+
+
+CSV files were ignored
